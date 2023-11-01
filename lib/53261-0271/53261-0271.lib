@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 53261-0271
+#
+DEF 53261-0271 J 0 40 Y N 1 L N
+F0 "J" -100 120 50 H V L BNN
+F1 "53261-0271" -100 -300 50 H V L BNN
+F2 "MOLEX_53261-0271" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "MOLEX" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+C 0 0 20 0 0 6 N
+P 2 0 0 6 -100 0 -20 0 N
+C 0 -100 20 0 0 6 N
+P 2 0 0 6 -100 -100 -20 -100 N
+S -100 -200 100 100 0 0 10 f
+X ~ 1 -300 0 200 R 40 40 0 0 P 
+X ~ 2 -300 -100 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
